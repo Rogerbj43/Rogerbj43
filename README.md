@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **more about Software development**
 
-- 👨‍💻 Portfolio coming soon
+- 👨‍💻 <i>Portfolio coming soon</i>
 
 - 💬 Ask me about **everything you want to know**
 
