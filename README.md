@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roger Bustos</h1>
 <h3 align="center">A passionate frontend developer from Barcelona, Spain</h3>
 
-- 🌱 I’m currently learning **about all this world**
+- 🌱 I’m currently learning **more about Software development**
 
 - 👨‍💻 All of my projects are available at [working on my portfolio](working on my portfolio)
 
