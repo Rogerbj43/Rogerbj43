@@ -5,7 +5,7 @@
 
 - 👨‍💻 <i>Portfolio coming soon</i>
 
-- 💬 Ask me about **everything you want to know**
+- 💬 Ask me about **more information on me or software developing**
 
 - 📫 How to reach me **rogerbj22@gmail.com**
 
