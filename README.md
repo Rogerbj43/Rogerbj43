@@ -9,7 +9,12 @@
 
 - 📫 How to reach me **rogerbj22@gmail.com**
 
-<div align="center"><a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=octocat&theme=vue-dark&preferLogin=false">    <img  alt="rogerbj43's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/rogerbj43?cardType=octocat&theme=vue-dark&preferLogin=false" />  </a></div>  
+<div align="center">
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=octocat&theme=material-palenight&preferLogin=true">
+    <img  alt="rogerbj43's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/rogerbj43?cardType=octocat&theme=material-palenight&preferLogin=true" />
+  </a>
+
+</a></div>  
 
 <br/>  
   
