@@ -1,5 +1,5 @@
 # 💫 About Me:
-· 🌱 I’m currently learning more about Software development<br><br>· 👨‍💻 Portfolio coming soon<br><br>· 💬 Ask me about more information on me or software developing<br><br>· 📫 How to reach me rogerbj22@gmail.com<br><br>
+· 🌱 I’m currently learning more about Software development <br><br>· 👨‍💻 Portfolio coming soon<br><br>· 💬 Ask me about more information on me or software developing<br><br>· 📫 How to reach me rogerbj22@gmail.com<br><br>
 
 
 ## 🌐 Socials:
